@@ -9,7 +9,7 @@ I am Front End developer.
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 
-<img align="right" alt="coding image" width="45" height="45" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding image" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 ### Skills
 
