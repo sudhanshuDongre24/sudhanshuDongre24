@@ -8,6 +8,9 @@ I am Front End developer.
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href=''>Portfolio</a>
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
+
+<img align="right" alt="coding image" width="45%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 ### Skills
 
 <p align="left">
