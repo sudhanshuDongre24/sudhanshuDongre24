@@ -6,7 +6,6 @@ I am Front End developer.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href=''>Portfolio</a>
-*   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
