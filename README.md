@@ -28,4 +28,4 @@ I am Front End developer.
 
 <br>
 
-<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshuDongre24&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sudhanshu" /></p>
+<p><img align="left" style="width:300px height:450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshuDongre24&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sudhanshu" /></p>
