@@ -7,7 +7,7 @@ I am Front End developer.
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-sudhanshu.netlify.app/'>Portfolio</a>
 *   🤝  I'm open to collaborating on interesting projects as a developer
-*   Email Me <a target="_blank" rel="noreferrer" href='mailto:sudhanshuDongre24@gmail.com/'>Link</a>
+*   Email Me <a  style={{text-decoration:none}} target="_blank" rel="noreferrer" href='mailto:sudhanshuDongre24@gmail.com/'>Link</a>
 
 
 <img align="right" alt="coding image" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
