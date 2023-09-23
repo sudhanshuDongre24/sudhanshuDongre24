@@ -7,6 +7,7 @@ I am Front End developer.
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-sudhanshu.netlify.app/'>Portfolio</a>
 *   🤝  I'm open to collaborating on interesting projects as a developer
+*   Email Me <a target="_blank" rel="noreferrer" href='mailto:sudhanshuDongre24@gmail.com/'>Link</a>
 
 
 <img align="right" alt="coding image" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -25,7 +26,7 @@ I am Front End developer.
 ### Socials
 
 <p align="left"> <a href="https://in.linkedin.com/in/sudhanshu-dongre-29a7a8169" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-<p align="left"> <a href="https://in.linkedin.com/in/sudhanshu-dongre-29a7a8169" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/12623/email" width="32" height="32" /></a> </p>
+
 
 <br>
 
