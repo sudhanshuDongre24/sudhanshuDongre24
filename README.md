@@ -25,7 +25,7 @@ I am Front End developer.
 ### Socials
 
 <p align="left"> <a href="https://in.linkedin.com/in/sudhanshu-dongre-29a7a8169" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-<p align="left"> <a href="https://in.linkedin.com/in/sudhanshu-dongre-29a7a8169" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/email_542689" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://in.linkedin.com/in/sudhanshu-dongre-29a7a8169" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/12623/email" width="32" height="32" /></a> </p>
 
 <br>
 
